@@ -1,2 +1,2 @@
 # passwd-gen
-a simple python password gen
+a simple python password gen with Gui
